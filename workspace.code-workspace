@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\shopping_cart"
+		},
+		{
+			"path": "..\\Preethi_Resume\\web_design\\hello"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "resume"
+	}
+}
